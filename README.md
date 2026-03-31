@@ -25,28 +25,29 @@ digital-literacy-project/
 │   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   └── infographic_ss
-|   └── brief_discription.md
+│   └── infography_ss.png
+|   
 │  
 ├── task-2-portfolio/  
-│   ├── GitHub_ss
-│   ├── LinkedIn_ss 
-│   └── researchgate_ss
-|   └── reflection_notes.md
+│   ├── github_ss.png
+│   ├── kaggle_ss.png
+│   └── linkedln_ss.png
+|   
 │  
 ├── task-3-platforms/  
-│   ├── Google form and Responses Link.md  
-│   ├── google-form.png  
-│   └── Hackerranker_ss
-|   └── notes.md
+│   ├── digital_literacy_quiz.png 
+│   ├── googleform_link.md
+│   └── hackerrank_ss.png
+│   └── resposesheet_ss.png
+|   
 │  
 ├── task-4-email-etiquette/  
-│   ├── email1.pdf  
-│   ├── email2.pdf  
-│   └── social-media-checklist.md  
+│   ├── VIT Bhopal University Mail - Application for Summer Internship Opportunity 
+│   ├── VIT Bhopal University Mail - Request for Extension_ Assignment Submission Deadline 
+│   └──  social_mefdia_checklist.md
 │  
 ├── task-5-cybercrime/  
-│   ├── casestudy.md  
+│   ├── social_mefdia_checklist.md 
 │   └── prevention-checklist.md  
   
 ##🧩 Task Summary  
@@ -64,7 +65,7 @@ Created/updated profiles on:
 
 GitHub  
 LinkedIn  
-researchgate 
+Kaggle 
 ✔ Added screenshots of all profiles  
 ✔ Built a professional digital presence  
 
